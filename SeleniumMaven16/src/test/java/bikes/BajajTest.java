@@ -12,6 +12,8 @@ public class BajajTest {
 		WebDriver driver =new ChromeDriver();
 		driver.get("https://www.bajajauto.com/booking/pulsar-ns400");
 		Reporter.log("-----------Bajaj launched successfully-------------",true);
+				Reporter.log("-----------Bajaj launched successfully-------------",true);
+
 	}
 
 }
